@@ -1,0 +1,21 @@
+body{
+    background-color:blueviolet;
+}
+.centro{
+    border-radius: 2px;
+    border-style: solid;
+    width: 500px;
+    left: 100px;
+    padding-left: 10%;
+    padding: top 10px;
+}
+
+.btn2{
+    background-color: rgb(8, 119, 211);
+    left: 600px;
+    top: 70px;
+}
+button {
+    text-align:right;
+    right: 600%;
+}
